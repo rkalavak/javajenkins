@@ -4,6 +4,7 @@
   <artifactId>javajenkins</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
+  	<finalName>javajenkins</finalName>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
